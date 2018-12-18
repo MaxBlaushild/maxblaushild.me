@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3aa4ccdb27771fdfff18",
-    "url": "/maxblaushild.me/static/css/main.e8b74912.chunk.css"
+    "revision": "10f0034b0c8ee69c3c68",
+    "url": "/maxblaushild.me/static/css/main.e7018fd8.chunk.css"
   },
   {
-    "revision": "3aa4ccdb27771fdfff18",
-    "url": "/maxblaushild.me/static/js/main.3aa4ccdb.chunk.js"
+    "revision": "10f0034b0c8ee69c3c68",
+    "url": "/maxblaushild.me/static/js/main.10f0034b.chunk.js"
   },
   {
     "revision": "a08208bdc8b5ef43c16d",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/maxblaushild.me/static/media/arcade.f841b176.ttf"
   },
   {
-    "revision": "1c5b8cb5332e08d1fff68a67f5099794",
+    "revision": "f9e1cebd77fb4c8a5e71f68593734799",
     "url": "/maxblaushild.me/index.html"
   }
 ];
