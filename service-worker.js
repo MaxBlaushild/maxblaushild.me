@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/maxblaushild.me/precache-manifest.ce4e641ad7a4f81a7b0034768a66516b.js"
+  "/maxblaushild.com/precache-manifest.adb0625d9f6e99424eee38f34c1cd5d0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/maxblaushild.me/index.html", {
+workbox.routing.registerNavigationRoute("/maxblaushild.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
