@@ -1,8 +1,8 @@
 {
-  "name": "maxblaushild.me",
+  "name": "maxblaushild.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://maxblaushild.github.io/maxblaushild.me",
+  "homepage": "http://maxblaushild.github.io/maxblaushild.com",
   "dependencies": {
     "@material-ui/core": "^3.7.0",
     "@material-ui/icons": "^3.0.1",
