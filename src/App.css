@@ -3,16 +3,16 @@
 }
 
 .App-logo {
-  height: 20vmin;
-  width: 20vmin;
+  height: 160px;
+  width: 160px;
   border-radius: 50%;
   object-fit: cover;
 }
 
 .App-img {
   background-color: white;
-  height: 4vmin;
-  width: 4vmin;
+  height: 40px;
+  width: 40px;
   display: inline-block;
   margin: 20px;
 }
@@ -28,8 +28,14 @@
 
 .App-text {
   background: white;
-  width: 100%;
+  width: calc(100% - 40px);
   max-width: 600px;
   margin-bottom: 0;
+  font-size: 26px;
   margin-top: 20px;
+  box-sizing: border-box;
+}
+
+h1.App-text {
+  font-size: 50px;
 }
