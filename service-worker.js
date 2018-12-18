@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/maxblaushild.me/precache-manifest.06ee34d4ce8a3d1631b9d4cb5c12de79.js"
+  "/maxblaushild.me/precache-manifest.690b88dfa6eb4e5e82d5ac06219445b7.js"
 );
 
 workbox.clientsClaim();
